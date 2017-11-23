@@ -1,7 +1,9 @@
-{% extends raw.html %}
+{% extends "raw.html" %}
+
+{% block title %}{{ title }}{% endblock %}
 
 {% block body %}
   <article>
-    <p>Landing page</p>
+    <p>{{ content }}</p>
   </article>
 {% endblock %}

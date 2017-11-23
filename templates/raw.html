@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    {% assets filters="sass", output="css/site.css", "css/site.scss" %}
+        <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ ASSET_URL }}">
+    {% endassets %}
     {% block head %}
       <title>{% block title %}{% endblock %}</title>
     {% endblock %}

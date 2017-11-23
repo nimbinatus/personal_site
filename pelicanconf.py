@@ -36,9 +36,20 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 # Theme info
-THEME = 'notmyidea'
+THEME = '.'
 
 # static files
 STATIC_PATHS = [
     'favicon.ico'
 ]
+
+# Plugin.
+# PLUGIN_PATHS = ['plugins']
+PLUGINS = [
+    'assets'
+]
+
+# webassets
+WEBASSETS = True
+ASSET_SOURCE_PATHS = ['static/css/']
+ASSET_URL = '/theme/webassets-external'
