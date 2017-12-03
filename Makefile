@@ -62,6 +62,7 @@ help:
 	@echo '                                                                          '
 
 html:
+	$(shell touch $(OUTPUTDIR)/.nojekyll)
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 clean:
