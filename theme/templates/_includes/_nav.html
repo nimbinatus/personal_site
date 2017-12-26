@@ -1,6 +1,6 @@
 <nav>
   <ul>
-    <li><a href="{{SITEURL}}">Home</a></li>
+    <li><a href="/">Home</a></li>
     {% for item in pages if not item.url == '/' %}
       <li><a href="{{SITEURL}}/{{item.slug}}">{{item.title}}</a></li>
     {% endfor %}
