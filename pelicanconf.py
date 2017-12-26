@@ -36,7 +36,7 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 # Theme info
-THEME = '.'
+THEME = './theme'
 THEME_STATIC_DIR = 'theme'
 THEME_STATIC_PATHS = ['static']
 
@@ -51,9 +51,12 @@ PLUGINS = [
     'assets'
 ]
 
+# Pages
+PAGE_SAVE_AS = '{slug}.html'
+
 # webassets
 # JINJA_ENVIRONMENT = {'webassets.ext.jinja2AssetsExtension': True}
-WEBASSETS = True
-# ASSET_SOURCE_PATHS = ['static/css/']
-# ASSET_URL = '/theme/'
-ASSET_DEBUG = True
+# WEBASSETS = True
+# ASSET_SOURCE_PATHS = ['static/css']
+# ASSET_URL = 'theme'
+# ASSET_DEBUG = True
