@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAAA,IAAK;EACH,WAAW,ECMM,MAAM;EDLvB,SAAS,ECGM,IAAI;EDFnB,WAAW,ECAC,UAAU;;ADExB,MAAO;EACL,UAAU,ECNI,KAAK;EDOnB,KAAK,EAAE,OAAO;;AAEhB,MAAO;EACL,UAAU,ECTM,IAAI;EDUpB,KAAK,EAAE,OAAO",
-"sources": ["_sass/_settings.scss","_sass/_variables.scss"],
-"names": [],
-"file": "compiled.css"
-}
