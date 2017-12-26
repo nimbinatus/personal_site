@@ -1,0 +1,3 @@
+cssmin
+pelican
+webassets==0.11

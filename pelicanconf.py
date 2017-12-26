@@ -37,19 +37,23 @@ DEFAULT_PAGINATION = 10
 
 # Theme info
 THEME = '.'
+THEME_STATIC_DIR = 'theme'
+THEME_STATIC_PATHS = ['static']
 
 # static files
 STATIC_PATHS = [
     'favicon.ico'
 ]
 
-# Plugin.
-# PLUGIN_PATHS = ['plugins']
+# Plugins
+PLUGIN_PATHS = ['hidden/pelican-plugins']
 PLUGINS = [
     'assets'
 ]
 
 # webassets
+# JINJA_ENVIRONMENT = {'webassets.ext.jinja2AssetsExtension': True}
 WEBASSETS = True
-ASSET_SOURCE_PATHS = ['static/css/']
-ASSET_URL = '/theme/webassets-external'
+# ASSET_SOURCE_PATHS = ['static/css/']
+# ASSET_URL = '/theme/'
+ASSET_DEBUG = True

@@ -103,3 +103,9 @@ ENV/
 # Pelican
 output/
 *.pid
+hidden/
+
+#sass
+.sass-cache/
+compile.css
+compile.css.map
