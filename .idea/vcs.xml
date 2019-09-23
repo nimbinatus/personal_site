@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/theme/pelican-themes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/theme/pelican-themes/BT3-Flat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/theme/pelican-themes/Casper2Pelican" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/theme/pelican-themes/Flex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/theme/pelican-themes/MinimalXY" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/theme/pelican-themes/Nuja" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/theme/pelican-themes/Responsive-Pelican" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/theme/pelican-themes/alchemy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/theme/pelican-themes/apricot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/theme/pelican-themes/attila" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/theme/pelican-themes/blue-penguin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/theme/pelican-themes/bluegrasshopper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/theme/pelican-themes/blueidea" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/theme/pelican-themes/bold" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/theme/pelican-themes/brutalist" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/theme/pelican-themes/bulrush" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/theme/pelican-themes/burrito" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/theme/pelican-themes/chameleon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/theme/pelican-themes/chunk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/theme/pelican-themes/cid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/theme/pelican-themes/clean-blog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/theme/pelican-themes/crowsfoot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/theme/pelican-themes/dev-random3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/theme/pelican-themes/eevee" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/theme/pelican-themes/elegant" vcs="Git" />
+  </component>
+</project>

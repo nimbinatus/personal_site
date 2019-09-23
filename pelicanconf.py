@@ -3,11 +3,11 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Laura Santamaria'
-SITENAME = 'Personal Site'
+SITENAME = 'Accidental DevOpsAdv'
 SITEURL = ''
+SITESRC = 'https://github.com/nimbinatus/nimbinatus.github.io'
 
 PATH = 'content'
-OUTPUT_PATH = 'docs'
 
 TIMEZONE = 'America/Chicago'
 
@@ -20,43 +20,37 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+# Biography
+BIO = "Developer Advocate @LogDNA. Pythonista. DevOps Advocate."
+PROFILE_IMAGE = 'avatar.png'
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (
+    ('email', 'laura@nimbinatus.com'),
+    ('linkedin', 'https://www.linkedin.com/in/lauraasantamaria'),
+    ('twitter', 'https://twitter.com/nimbinatus'),
+    ('github', 'https://github.com/nimbinatus')
+)
 
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-# Theme info
-THEME = './theme'
-THEME_STATIC_DIR = 'theme'
-THEME_STATIC_PATHS = ['static']
+# URL settings
+ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'
+ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
+PAGE_URL = 'pages/{slug}/'
+PAGE_SAVE_AS = 'pages/{slug}/index.html'
+
+# Theme
+THEME = 'theme/pelican-themes/twitchy'
+
+# Plugins
+# PLUGIN_PATHS = [ 'plugins' ]
+# PLUGINS = ['assets']
 
 # static files
 STATIC_PATHS = [
     'favicon.ico'
 ]
-
-# Plugins
-PLUGIN_PATHS = ['hidden/pelican-plugins']
-PLUGINS = [
-    'assets'
-]
-
-# Pages
-PAGE_SAVE_AS = '{slug}.html'
-
-# webassets
-# JINJA_ENVIRONMENT = {'webassets.ext.jinja2AssetsExtension': True}
-# WEBASSETS = True
-# ASSET_SOURCE_PATHS = ['static/css']
-# ASSET_URL = 'theme'
-# ASSET_DEBUG = True
