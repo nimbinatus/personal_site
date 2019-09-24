@@ -9,7 +9,7 @@ SITESUBTITLE = 'A Dev Advocate walks into a bar...'
 SITEDESCRIPTION = 'A Dev Advocate walks into a bar...'
 SITEURL = 'http://localhost:8000'
 SITESRC = 'https://github.com/nimbinatus/nimbinatus.github.io'
-SITELOGO = SITEURL + '/static/github.jpeg'
+SITELOGO = SITEURL + '/static/avatar.png'
 FAVICON = SITEURL + '/static/favicon.ico'
 
 PATH = 'content'
@@ -26,7 +26,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Biography
-BIO = "Developer Advocate @LogDNA. Pythonista. DevOps Advocate."
+BIO = "Laura Santamaria: Developer Advocate @LogDNA. Pythonista. DevOps Advocate."
 PROFILE_IMAGE = 'avatar.png'
 
 # Social widget
