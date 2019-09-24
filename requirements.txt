@@ -2,3 +2,4 @@ markdown
 pelican
 webassets
 cssmin
+beautifulsoup4

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="295bec4a-b278-425c-ab59-8e6ba7fb196d" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/theme/pelican-themes/marble/README.rst" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/theme/pelican-themes/marble/locale/babel.cfg" afterDir="false" />
@@ -2424,6 +2425,9 @@
       <change beforePath="$PROJECT_DIR$/theme/templates/tag.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/theme/templates/tags.html" beforeDir="false" />
     </list>
+=======
+    <list default="true" id="b8b58d01-3eac-4b65-b90e-118c3703a0a4" name="Default Changelist" comment="" />
+>>>>>>> Stashed changes
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -2433,6 +2437,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< Updated upstream
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
       <set>
@@ -2453,6 +2458,12 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/theme/pelican-hyde" />
     </key>
+=======
+  <component name="ProjectId" id="1Qc5TTvD4aVbWpMDYk0ACgA1wil" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> Stashed changes
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -2471,12 +2482,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< Updated upstream
       <changelist id="295bec4a-b278-425c-ab59-8e6ba7fb196d" name="Default Changelist" comment="" />
       <created>1569193197201</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569193197201</updated>
       <workItem from="1569193199200" duration="4925000" />
+=======
+      <changelist id="b8b58d01-3eac-4b65-b90e-118c3703a0a4" name="Default Changelist" comment="" />
+      <created>1568057051582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568057051582</updated>
+      <workItem from="1568057052735" duration="1365000" />
+      <workItem from="1568240774610" duration="20000" />
+      <workItem from="1568496427557" duration="95000" />
+      <workItem from="1568921264531" duration="13000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
@@ -2488,7 +2511,13 @@
       <map>
         <entry key="MAIN">
           <value>
+<<<<<<< Updated upstream
             <State />
+=======
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+>>>>>>> Stashed changes
           </value>
         </entry>
       </map>

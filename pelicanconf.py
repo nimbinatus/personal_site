@@ -3,9 +3,14 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Laura Santamaria'
-SITENAME = 'Accidental DevOpsAdv'
-SITEURL = ''
+SITETITLE = 'Yet Another Blog'
+SITENAME = 'Yet Another Blog'
+SITESUBTITLE = 'A Dev Advocate walks into a bar...'
+SITEDESCRIPTION = 'A Dev Advocate walks into a bar...'
+SITEURL = 'http://localhost:8000'
 SITESRC = 'https://github.com/nimbinatus/nimbinatus.github.io'
+SITELOGO = SITEURL + '/static/github.jpeg'
+FAVICON = SITEURL + '/static/favicon.ico'
 
 PATH = 'content'
 
@@ -26,7 +31,6 @@ PROFILE_IMAGE = 'avatar.png'
 
 # Social widget
 SOCIAL = (
-    ('email', 'laura@nimbinatus.com'),
     ('linkedin', 'https://www.linkedin.com/in/lauraasantamaria'),
     ('twitter', 'https://twitter.com/nimbinatus'),
     ('github', 'https://github.com/nimbinatus')
@@ -44,13 +48,26 @@ PAGE_URL = 'pages/{slug}/'
 PAGE_SAVE_AS = 'pages/{slug}/index.html'
 
 # Theme
-THEME = 'theme/pelican-themes/twitchy'
+THEME = 'theme/flex'
 
 # Plugins
-# PLUGIN_PATHS = [ 'plugins' ]
-# PLUGINS = ['assets']
+PLUGIN_PATHS = ['pelican-plugins']
+PLUGINS = ['neighbors', 'post_stats']
 
 # static files
 STATIC_PATHS = [
-    'favicon.ico'
+    'static'
 ]
+
+COPYRIGHT_YEAR = 2019
+COPYRIGHT_NAME = 'Laura A Santamaria'
+
+MAIN_MENU = True
+
+MENUITEMS = (('Archives', '/archives.html'),
+             ('Categories', '/categories.html'),
+             ('Tags', '/tags.html'),)
+
+LINKS = (('Archives', '/archives.html'),
+             ('Categories', '/categories.html'),
+             ('Tags', '/tags.html'),)
