@@ -23,7 +23,7 @@ jobs:
         make publish
     - name: GitHub Pages Deploy
       if: success()
-      env:
+      with:
         - build_dir: output
       uses: maxheld83/ghpages@v0.2.1
 
