@@ -21,6 +21,9 @@ jobs:
     - name: Build the prod site
       run: |
         make publish
+    - name: Add nojekyll
+      run: |
+        touch ./output/.nojekyll
     - name: GitHub Pages Deploy
       if: success()
       uses: maxheld83/ghpages@v0.2.1
