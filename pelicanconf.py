@@ -12,10 +12,6 @@ SITESRC = 'https://github.com/nimbinatus/nimbinatus.github.io'
 SITELOGO = SITEURL + '/static/avatar.png'
 FAVICON = SITEURL + '/static/favicon.ico'
 
-ARTICLE_URLS = 'posts/{slug}/'
-ARTICLE_SAVE_AS = 'posts/{slug}.html'
-PAGE_URL = 'pages/{slug}/'
-PAGE_SAVE_AS = 'pages/{slug}/index.html'
 
 PATH = 'content'
 
@@ -52,6 +48,8 @@ ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 PAGE_URL = 'pages/{slug}/'
 PAGE_SAVE_AS = 'pages/{slug}/index.html'
+# DRAFT_URL = '{slug}.html'
+# DRAFT_SAVE_AS = 'drafts/{slug}.html'
 
 # Theme
 THEME = 'theme/flex'
