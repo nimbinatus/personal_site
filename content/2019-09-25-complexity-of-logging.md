@@ -21,4 +21,4 @@ At their heart, though, log lines are the announcements of changes in state of y
 
 All of this discussion about the complexity around logs and log lines doesn't even take into account the complexity of managing those logs. As a dev advocate at a log aggregation company, I'm getting a real look at the underbelly of the beast. The sheer amount of data that we take in on a regular basis is staggering. When the phrase "petabytes of data daily" makes your engineers shrug in a world where the majority of us are still thinking in gigabytes and terabytes, then you really are dealing with a mind-bendingly large amount of data. Once I've conquered my initial wow factor a bit, we can talk more about the complexities of log aggregation and management itself, especially with distributed systems and microarchitectures.
 
-What's your thoughts about the complexity of logging? Join the conversation on [Twitter](https://twitter.com/nimbinatus).
+What are your thoughts about the complexity of logging? Join the conversation on [Twitter](https://twitter.com/nimbinatus).
