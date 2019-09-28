@@ -1,7 +1,7 @@
 ---
 title: Pelican and GitHub Pages 
 author: Laura Santamaria
-category: meta
+category: meta-stuff
 slug: pelican-and-ghpages
 date: 28 September 2019
 tags: blog, meta, pelican, github
