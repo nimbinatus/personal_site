@@ -5,7 +5,7 @@ category: logs
 slug: deep-dive-python-logging
 date: 21 October 2019
 tags: logging, python, deep-dive
-status: draft
+status: published
 ---
 
 As part of a workshop I'm preparing for, I decided to do a deep dive into Python's built-in logging module from the Python Standard Library. I always had just used the module without thinking too heavily about how it was put together or how it worked. `import logging` and then away I went. Well, that's about to change, and I thought you might enjoy coming along for the ride. This post will go down into some of the module, especially the bits and thoughts that aren't detailed in the library reference, but I'm sure I'll miss spots along the way. We'll come back to it eventually!
