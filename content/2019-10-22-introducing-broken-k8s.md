@@ -1,7 +1,7 @@
 ---
 title: Introducing the Broken k8s Project
 author: Laura Santamaria
-category: k8s
+category: kubernetes
 slug: broken-k8s-intro
 date: 22 October 2019
 tags: k8s, kubernetes, experiment, teaching
