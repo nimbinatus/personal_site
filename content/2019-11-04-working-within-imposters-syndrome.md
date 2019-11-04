@@ -36,4 +36,4 @@ Another thing I had to learn was how to handle mistakes, missteps, or failures, 
 
 I'll be using these a lot this week as I'm going to be presenting at DeveloperWeek Austin. I always get nerves and imposter syndrome before I go on stage, no matter how many times I've done it. If you happen to be here and look really closely before I go up on stage, you'll likely see some tiny letters on the inside of my wrist, waiting for me to need that boost, or me flipping through my phone reading my confidence collection. In addition to the conference, I have a lot more CFPs to respond to this month. I'll be using all of these strategies to get through the stressful process of getting words on a page.
 
-How do you work from within your imposter syndrome? Come find me on [Twitter](https://www.twitter.com/nimbinatus) and let me know.
+How do you work from within your imposter syndrome? Come find me on [Twitter](https://twitter.com/nimbinatus/status/1191485763474599936) and let me know.
