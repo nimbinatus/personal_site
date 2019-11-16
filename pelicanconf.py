@@ -12,7 +12,6 @@ SITESRC = 'https://github.com/nimbinatus/nimbinatus.github.io'
 SITELOGO = SITEURL + '/static/avatar.png'
 FAVICON = SITEURL + '/static/favicon.ico'
 
-
 PATH = 'content'
 
 TIMEZONE = 'America/Chicago'
@@ -27,7 +26,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Biography
-BIO = "Laura Santamaria: Developer Advocate @LogDNA. Pythonista. DevOps Advocate."
+BIO = "Developer and DevOps Advocate @LogDNA"
 PROFILE_IMAGE = 'avatar.png'
 
 # Social widget
@@ -63,6 +62,12 @@ STATIC_PATHS = [
     'static'
 ]
 
+JINJA_ENVIRONMENT = {
+    'extensions': [
+        'jinja2.ext.do'
+    ]
+}
+
 COPYRIGHT_YEAR = 2019
 COPYRIGHT_NAME = 'Laura A Santamaria'
 
@@ -72,6 +77,4 @@ MENUITEMS = (('Archives', '/archives.html'),
              ('Categories', '/categories.html'),
              ('Tags', '/tags.html'),)
 
-LINKS = (('Archives', '/archives.html'),
-             ('Categories', '/categories.html'),
-             ('Tags', '/tags.html'),)
+LINKS = (('Archives', '/archives.html'),)
