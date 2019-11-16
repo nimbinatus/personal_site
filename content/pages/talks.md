@@ -10,10 +10,10 @@ will be posted and aggregated here.
 
 ### Upcoming Talks and Workshops
 
-- "I Borked Prod" (lightning talk) at **12 Clouds of Christmas**, *Cloud Austin/Austin DevOps* in December 2019
-- "All's Fair in Logs and War" (lightning talk) at **DevSecOpsDays Austin** in December 2019
-- "Legacy is a Frame of Mind" (talk) at **DeliveryConf** in January 2020
+- "I Borked Prod" (lightning talk) at [**12 Clouds of Christmas**, *Cloud Austin/Austin DevOps*](https://www.meetup.com/CloudAustin/events/pljpfryzqbwb/) in December 2019
+- "All's Fair in Logs and War" (lightning talk) at [**DevSecOpsDays Austin**](https://www.devsecopsdays.com/2019-devsecopsdays-austin) in December 2019
+- "Legacy is a Frame of Mind" (talk) at [**DeliveryConf**](https://www.deliveryconf.com/) in January 2020
 
 ### Recent Talks and Workshops
 
-- "Log Better" (workshop) at **DeveloperWeek Austin** in November 2019
+- "Log Better" (workshop) at [**DeveloperWeek Austin**](https://www.developerweek.com/Austin/) in November 2019
