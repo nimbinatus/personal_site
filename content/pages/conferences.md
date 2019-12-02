@@ -5,7 +5,7 @@ status: published
 
 Here's a list of where I have been and where I'll be. In general, I'm at my two home meetups, Austin DevOps and Cloud Austin, as much as I can be, and I bounce around the Austin meetup scene whenever I'm in town. I'm always looking for a good DevOps meetup or hangout, so if I'm going to be in your area, feel free to reach out to me to tell me about it!
 
-Come find me for [Broken k8s](broken-k8s-intro) Challenge Coins!
+Come find me for [Broken k8s]({filename}2019-10-22-introducing-broken-k8s.md) Challenge Coins!
 
 ### Upcoming Conferences and Meetups
 
