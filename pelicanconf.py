@@ -77,4 +77,5 @@ MENUITEMS = (('Archives', '/archives.html'),
              ('Categories', '/categories.html'),
              ('Tags', '/tags.html'),)
 
-LINKS = (('Archives', '/archives.html'),)
+LINKS = (('Speaking', 'https://speaking.nimbinatus.com'),
+         ('Archives', '/archives.html'),)
